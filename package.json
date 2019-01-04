@@ -1,12 +1,12 @@
 {
-  "name": "optimizedhtml",
-  "version": "4.0.0",
-  "description": "OptimizedHTML 4 - Start HTML Template",
+  "name": "dmstart",
+  "version": "1.0.0",
+  "description": "My start HTML Template based on OptimizedHTML 4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "WebDesign Master",
+  "author": "Demorgan WG",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.3",

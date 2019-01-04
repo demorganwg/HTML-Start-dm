@@ -7,7 +7,7 @@
 }
 
 ::selection {
-	background-color: $accent;
+	background-color: $c-accent;
 	color: #fff;
 }
 
@@ -16,9 +16,10 @@ body {
 	min-width: 320px;
 	position: relative;
 	line-height: 1.65;
-	font-family: $default-font;
+	font-family: $f-d;
 	overflow-x: hidden;
-	color: $text;
+	height: 500px;
+	color: $c-text;
 	input, textarea {
 		border: #666 1px solid;
 		outline: none;
