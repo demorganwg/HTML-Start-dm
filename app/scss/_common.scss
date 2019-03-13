@@ -4,14 +4,15 @@
 
 ::selection {
 	background-color: $c-accent;
-	color: #fff;
+	color: white;
 }
 
 body {
+	background-color: white;
 	font-size: 16px;
 	min-width: 320px;
 	position: relative;
-	line-height: 1.65;
+	line-height: 1;
 	font-family: $f-d;
 	overflow-x: hidden;
 	height: 500px;
@@ -44,3 +45,8 @@ body {
 b, strong {
 	font-weight: bold;
 }
+
+i {
+	font-family: $f-d-i;
+}
+

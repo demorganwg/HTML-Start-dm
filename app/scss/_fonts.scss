@@ -1,4 +1,5 @@
 @import "_mixins/font-face";
 
-@include font-face("roboto-example", "../fonts/RobotoRegular/RobotoRegular");
-@include font-face("roboto-example", "../fonts/RobotoBold/RobotoBold", bold);
+@include font-face("DINPro", "../fonts/DINPro/DINPro");
+@include font-face("DINPro", "../fonts/DINPro/DINPro-Bold", bold);
+@include font-face("DINPro-italic", "../fonts/DINPro/DINPro-Italic");
